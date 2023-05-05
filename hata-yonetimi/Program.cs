@@ -4,6 +4,7 @@ try
 {
     Console.WriteLine("Enter a number: ");
     int number = Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine($"You have entered {number}");
 }
 catch(Exception ex)
 {
