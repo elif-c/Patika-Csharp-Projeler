@@ -1,0 +1,18 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "if-else-if\\Program.cs",
+      "projectTarget": "",
+      "name": "Program.cs"
+    },
+    {
+      "type": "coreclr",
+      "name": "Program.cs(1)",
+      "project": "if-else-if\\Program.cs",
+      "projectTarget": ""
+    }
+  ]
+}

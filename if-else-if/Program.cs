@@ -15,5 +15,5 @@ else
     Console.WriteLine("Good Night!");
 }
 
-string result = time >= 6 && time < 11 "Good Morning!" : time <= 18 ? "Good Night!" : "Good Afternoon!";
+string result = (time >= 6 && time < 11 ? "Good Morning!" : time <= 18 ? "Good Night!" : "Good Afternoon!");
 Console.WriteLine(result);

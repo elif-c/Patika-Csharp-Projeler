@@ -3,3 +3,13 @@ C:\Users\elf\Documents\Patika Projeler\if-else-if\obj\Debug\net7.0\if-else-if.Ge
 C:\Users\elf\Documents\Patika Projeler\if-else-if\obj\Debug\net7.0\if-else-if.AssemblyInfoInputs.cache
 C:\Users\elf\Documents\Patika Projeler\if-else-if\obj\Debug\net7.0\if-else-if.AssemblyInfo.cs
 C:\Users\elf\Documents\Patika Projeler\if-else-if\obj\Debug\net7.0\if-else-if.csproj.CoreCompileInputs.cache
+C:\Users\elf\Documents\Patika Projeler\if-else-if\bin\Debug\net7.0\if-else-if.exe
+C:\Users\elf\Documents\Patika Projeler\if-else-if\bin\Debug\net7.0\if-else-if.deps.json
+C:\Users\elf\Documents\Patika Projeler\if-else-if\bin\Debug\net7.0\if-else-if.runtimeconfig.json
+C:\Users\elf\Documents\Patika Projeler\if-else-if\bin\Debug\net7.0\if-else-if.dll
+C:\Users\elf\Documents\Patika Projeler\if-else-if\bin\Debug\net7.0\if-else-if.pdb
+C:\Users\elf\Documents\Patika Projeler\if-else-if\obj\Debug\net7.0\if-else-if.dll
+C:\Users\elf\Documents\Patika Projeler\if-else-if\obj\Debug\net7.0\refint\if-else-if.dll
+C:\Users\elf\Documents\Patika Projeler\if-else-if\obj\Debug\net7.0\if-else-if.pdb
+C:\Users\elf\Documents\Patika Projeler\if-else-if\obj\Debug\net7.0\if-else-if.genruntimeconfig.cache
+C:\Users\elf\Documents\Patika Projeler\if-else-if\obj\Debug\net7.0\ref\if-else-if.dll
