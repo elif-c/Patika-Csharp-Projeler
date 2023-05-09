@@ -13,6 +13,12 @@
       "name": "Program.cs(1)",
       "project": "if-else-if\\Program.cs",
       "projectTarget": ""
+    },
+    {
+      "type": "default",
+      "project": "switch-case\\Program.cs",
+      "projectTarget": "",
+      "name": "Program.cs"
     }
   ]
 }
