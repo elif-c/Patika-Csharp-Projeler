@@ -1,0 +1,15 @@
+C:\Users\elf\Documents\Patika Projeler\donguler\obj\Debug\net7.0\donguler.csproj.AssemblyReference.cache
+C:\Users\elf\Documents\Patika Projeler\donguler\obj\Debug\net7.0\donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Documents\Patika Projeler\donguler\obj\Debug\net7.0\donguler.AssemblyInfoInputs.cache
+C:\Users\elf\Documents\Patika Projeler\donguler\obj\Debug\net7.0\donguler.AssemblyInfo.cs
+C:\Users\elf\Documents\Patika Projeler\donguler\obj\Debug\net7.0\donguler.csproj.CoreCompileInputs.cache
+C:\Users\elf\Documents\Patika Projeler\donguler\bin\Debug\net7.0\donguler.exe
+C:\Users\elf\Documents\Patika Projeler\donguler\bin\Debug\net7.0\donguler.deps.json
+C:\Users\elf\Documents\Patika Projeler\donguler\bin\Debug\net7.0\donguler.runtimeconfig.json
+C:\Users\elf\Documents\Patika Projeler\donguler\bin\Debug\net7.0\donguler.dll
+C:\Users\elf\Documents\Patika Projeler\donguler\bin\Debug\net7.0\donguler.pdb
+C:\Users\elf\Documents\Patika Projeler\donguler\obj\Debug\net7.0\donguler.dll
+C:\Users\elf\Documents\Patika Projeler\donguler\obj\Debug\net7.0\refint\donguler.dll
+C:\Users\elf\Documents\Patika Projeler\donguler\obj\Debug\net7.0\donguler.pdb
+C:\Users\elf\Documents\Patika Projeler\donguler\obj\Debug\net7.0\donguler.genruntimeconfig.cache
+C:\Users\elf\Documents\Patika Projeler\donguler\obj\Debug\net7.0\ref\donguler.dll
