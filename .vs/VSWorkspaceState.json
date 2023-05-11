@@ -1,15 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\if-else-if\\bin",
-    "\\if-else-if\\bin\\Debug",
-    "\\if-else-if\\bin\\Debug\\net7.0",
-    "\\if-else-if\\bin\\Release",
-    "\\if-else-if\\bin\\Release\\net7.0",
-    "\\operatorler\\bin",
-    "\\operatorler\\bin\\Debug",
-    "\\operatorler\\bin\\Debug\\net7.0"
+    "\\donguler"
   ],
-  "SelectedNode": "\\if-else-if",
   "PreviewInSolutionExplorer": false
 }
