@@ -1,0 +1,15 @@
+C:\Users\elf\Documents\Patika Projeler\metotlar\bin\Debug\net7.0\metotlar.exe
+C:\Users\elf\Documents\Patika Projeler\metotlar\bin\Debug\net7.0\metotlar.deps.json
+C:\Users\elf\Documents\Patika Projeler\metotlar\bin\Debug\net7.0\metotlar.runtimeconfig.json
+C:\Users\elf\Documents\Patika Projeler\metotlar\bin\Debug\net7.0\metotlar.dll
+C:\Users\elf\Documents\Patika Projeler\metotlar\bin\Debug\net7.0\metotlar.pdb
+C:\Users\elf\Documents\Patika Projeler\metotlar\obj\Debug\net7.0\metotlar.csproj.AssemblyReference.cache
+C:\Users\elf\Documents\Patika Projeler\metotlar\obj\Debug\net7.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Documents\Patika Projeler\metotlar\obj\Debug\net7.0\metotlar.AssemblyInfoInputs.cache
+C:\Users\elf\Documents\Patika Projeler\metotlar\obj\Debug\net7.0\metotlar.AssemblyInfo.cs
+C:\Users\elf\Documents\Patika Projeler\metotlar\obj\Debug\net7.0\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\elf\Documents\Patika Projeler\metotlar\obj\Debug\net7.0\metotlar.dll
+C:\Users\elf\Documents\Patika Projeler\metotlar\obj\Debug\net7.0\refint\metotlar.dll
+C:\Users\elf\Documents\Patika Projeler\metotlar\obj\Debug\net7.0\metotlar.pdb
+C:\Users\elf\Documents\Patika Projeler\metotlar\obj\Debug\net7.0\metotlar.genruntimeconfig.cache
+C:\Users\elf\Documents\Patika Projeler\metotlar\obj\Debug\net7.0\ref\metotlar.dll

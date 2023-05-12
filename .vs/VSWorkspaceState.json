@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\diziler",
-    "\\diziler\\bin\\Debug\\net7.0"
+    "\\arrays"
   ],
-  "SelectedNode": "\\diziler\\Program.cs",
+  "SelectedNode": "\\arrays\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
