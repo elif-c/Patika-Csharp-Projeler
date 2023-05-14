@@ -1,0 +1,15 @@
+C:\Users\elf\Documents\Patika Projeler\c#-101-odev-1\bin\Debug\net7.0\c#-101-odev-1.exe
+C:\Users\elf\Documents\Patika Projeler\c#-101-odev-1\bin\Debug\net7.0\c#-101-odev-1.deps.json
+C:\Users\elf\Documents\Patika Projeler\c#-101-odev-1\bin\Debug\net7.0\c#-101-odev-1.runtimeconfig.json
+C:\Users\elf\Documents\Patika Projeler\c#-101-odev-1\bin\Debug\net7.0\c#-101-odev-1.dll
+C:\Users\elf\Documents\Patika Projeler\c#-101-odev-1\bin\Debug\net7.0\c#-101-odev-1.pdb
+C:\Users\elf\Documents\Patika Projeler\c#-101-odev-1\obj\Debug\net7.0\c#-101-odev-1.csproj.AssemblyReference.cache
+C:\Users\elf\Documents\Patika Projeler\c#-101-odev-1\obj\Debug\net7.0\c#-101-odev-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Documents\Patika Projeler\c#-101-odev-1\obj\Debug\net7.0\c#-101-odev-1.AssemblyInfoInputs.cache
+C:\Users\elf\Documents\Patika Projeler\c#-101-odev-1\obj\Debug\net7.0\c#-101-odev-1.AssemblyInfo.cs
+C:\Users\elf\Documents\Patika Projeler\c#-101-odev-1\obj\Debug\net7.0\c#-101-odev-1.csproj.CoreCompileInputs.cache
+C:\Users\elf\Documents\Patika Projeler\c#-101-odev-1\obj\Debug\net7.0\c#-101-odev-1.dll
+C:\Users\elf\Documents\Patika Projeler\c#-101-odev-1\obj\Debug\net7.0\refint\c#-101-odev-1.dll
+C:\Users\elf\Documents\Patika Projeler\c#-101-odev-1\obj\Debug\net7.0\c#-101-odev-1.pdb
+C:\Users\elf\Documents\Patika Projeler\c#-101-odev-1\obj\Debug\net7.0\c#-101-odev-1.genruntimeconfig.cache
+C:\Users\elf\Documents\Patika Projeler\c#-101-odev-1\obj\Debug\net7.0\ref\c#-101-odev-1.dll
