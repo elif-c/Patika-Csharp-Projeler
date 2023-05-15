@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\arrays",
-    "\\c#-101-odev-1",
-    "\\metotlar-recursive"
+    "\\degiskenler",
+    "\\operatorler",
+    "\\string-methods"
   ],
-  "SelectedNode": "\\c#-101-odev-1\\Program.cs",
+  "SelectedNode": "\\string-methods\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

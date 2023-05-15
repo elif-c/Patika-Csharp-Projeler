@@ -1,0 +1,15 @@
+C:\Users\elf\Documents\Patika Projeler\datetime-math\bin\Debug\net7.0\datetime-math.exe
+C:\Users\elf\Documents\Patika Projeler\datetime-math\bin\Debug\net7.0\datetime-math.deps.json
+C:\Users\elf\Documents\Patika Projeler\datetime-math\bin\Debug\net7.0\datetime-math.runtimeconfig.json
+C:\Users\elf\Documents\Patika Projeler\datetime-math\bin\Debug\net7.0\datetime-math.dll
+C:\Users\elf\Documents\Patika Projeler\datetime-math\bin\Debug\net7.0\datetime-math.pdb
+C:\Users\elf\Documents\Patika Projeler\datetime-math\obj\Debug\net7.0\datetime-math.csproj.AssemblyReference.cache
+C:\Users\elf\Documents\Patika Projeler\datetime-math\obj\Debug\net7.0\datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Documents\Patika Projeler\datetime-math\obj\Debug\net7.0\datetime-math.AssemblyInfoInputs.cache
+C:\Users\elf\Documents\Patika Projeler\datetime-math\obj\Debug\net7.0\datetime-math.AssemblyInfo.cs
+C:\Users\elf\Documents\Patika Projeler\datetime-math\obj\Debug\net7.0\datetime-math.csproj.CoreCompileInputs.cache
+C:\Users\elf\Documents\Patika Projeler\datetime-math\obj\Debug\net7.0\datetime-math.dll
+C:\Users\elf\Documents\Patika Projeler\datetime-math\obj\Debug\net7.0\refint\datetime-math.dll
+C:\Users\elf\Documents\Patika Projeler\datetime-math\obj\Debug\net7.0\datetime-math.pdb
+C:\Users\elf\Documents\Patika Projeler\datetime-math\obj\Debug\net7.0\datetime-math.genruntimeconfig.cache
+C:\Users\elf\Documents\Patika Projeler\datetime-math\obj\Debug\net7.0\ref\datetime-math.dll
