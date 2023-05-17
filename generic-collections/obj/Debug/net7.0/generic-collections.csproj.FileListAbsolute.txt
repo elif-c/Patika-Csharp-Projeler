@@ -1,0 +1,15 @@
+C:\Users\elf\Documents\Patika Projeler\generic-collections\bin\Debug\net7.0\generic-collections.exe
+C:\Users\elf\Documents\Patika Projeler\generic-collections\bin\Debug\net7.0\generic-collections.deps.json
+C:\Users\elf\Documents\Patika Projeler\generic-collections\bin\Debug\net7.0\generic-collections.runtimeconfig.json
+C:\Users\elf\Documents\Patika Projeler\generic-collections\bin\Debug\net7.0\generic-collections.dll
+C:\Users\elf\Documents\Patika Projeler\generic-collections\bin\Debug\net7.0\generic-collections.pdb
+C:\Users\elf\Documents\Patika Projeler\generic-collections\obj\Debug\net7.0\generic-collections.csproj.AssemblyReference.cache
+C:\Users\elf\Documents\Patika Projeler\generic-collections\obj\Debug\net7.0\generic-collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Documents\Patika Projeler\generic-collections\obj\Debug\net7.0\generic-collections.AssemblyInfoInputs.cache
+C:\Users\elf\Documents\Patika Projeler\generic-collections\obj\Debug\net7.0\generic-collections.AssemblyInfo.cs
+C:\Users\elf\Documents\Patika Projeler\generic-collections\obj\Debug\net7.0\generic-collections.csproj.CoreCompileInputs.cache
+C:\Users\elf\Documents\Patika Projeler\generic-collections\obj\Debug\net7.0\generic-collections.dll
+C:\Users\elf\Documents\Patika Projeler\generic-collections\obj\Debug\net7.0\refint\generic-collections.dll
+C:\Users\elf\Documents\Patika Projeler\generic-collections\obj\Debug\net7.0\generic-collections.pdb
+C:\Users\elf\Documents\Patika Projeler\generic-collections\obj\Debug\net7.0\generic-collections.genruntimeconfig.cache
+C:\Users\elf\Documents\Patika Projeler\generic-collections\obj\Debug\net7.0\ref\generic-collections.dll
