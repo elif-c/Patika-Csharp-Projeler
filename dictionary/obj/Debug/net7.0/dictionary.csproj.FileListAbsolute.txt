@@ -1,0 +1,15 @@
+C:\Users\elf\Documents\Patika Projeler\dictionary\bin\Debug\net7.0\dictionary.exe
+C:\Users\elf\Documents\Patika Projeler\dictionary\bin\Debug\net7.0\dictionary.deps.json
+C:\Users\elf\Documents\Patika Projeler\dictionary\bin\Debug\net7.0\dictionary.runtimeconfig.json
+C:\Users\elf\Documents\Patika Projeler\dictionary\bin\Debug\net7.0\dictionary.dll
+C:\Users\elf\Documents\Patika Projeler\dictionary\bin\Debug\net7.0\dictionary.pdb
+C:\Users\elf\Documents\Patika Projeler\dictionary\obj\Debug\net7.0\dictionary.csproj.AssemblyReference.cache
+C:\Users\elf\Documents\Patika Projeler\dictionary\obj\Debug\net7.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Documents\Patika Projeler\dictionary\obj\Debug\net7.0\dictionary.AssemblyInfoInputs.cache
+C:\Users\elf\Documents\Patika Projeler\dictionary\obj\Debug\net7.0\dictionary.AssemblyInfo.cs
+C:\Users\elf\Documents\Patika Projeler\dictionary\obj\Debug\net7.0\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\elf\Documents\Patika Projeler\dictionary\obj\Debug\net7.0\dictionary.dll
+C:\Users\elf\Documents\Patika Projeler\dictionary\obj\Debug\net7.0\refint\dictionary.dll
+C:\Users\elf\Documents\Patika Projeler\dictionary\obj\Debug\net7.0\dictionary.pdb
+C:\Users\elf\Documents\Patika Projeler\dictionary\obj\Debug\net7.0\dictionary.genruntimeconfig.cache
+C:\Users\elf\Documents\Patika Projeler\dictionary\obj\Debug\net7.0\ref\dictionary.dll
