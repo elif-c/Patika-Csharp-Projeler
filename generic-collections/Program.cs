@@ -66,8 +66,6 @@ foreach (Users user in usersList)
     Console.WriteLine("User age: " + user.Age);
 }
 
-
-
 public class Users
 {
     private string names;
@@ -77,4 +75,25 @@ public class Users
     public string Name {  get => name; set => name = value; } // encapsulating variables
     public string Surname { get => surname; set => surname = value; }
     public int Age { get => ages; set => ages = value; }
+}
+
+
+// accessing generic array
+int n = Convert.ToInt32(Console.ReadLine());
+int[] intArray = new int[n];
+for (int i = 0; i < n; i++)
+{
+    intArray[i] = Convert.ToInt32(Console.ReadLine());
+}
+PrintArray<Int32>(intArray);
+
+class Printer
+{
+    public static void PrintArray<T>(T[] genericArray)
+    {
+        foreach (var item in genericArray)
+        {
+            Console.WriteLine(item));
+        }
+    }
 }
