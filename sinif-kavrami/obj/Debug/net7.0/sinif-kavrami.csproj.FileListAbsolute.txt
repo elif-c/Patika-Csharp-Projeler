@@ -1,0 +1,15 @@
+C:\Users\elf\Documents\Patika Projeler\sinif-kavrami\bin\Debug\net7.0\sinif-kavrami.exe
+C:\Users\elf\Documents\Patika Projeler\sinif-kavrami\bin\Debug\net7.0\sinif-kavrami.deps.json
+C:\Users\elf\Documents\Patika Projeler\sinif-kavrami\bin\Debug\net7.0\sinif-kavrami.runtimeconfig.json
+C:\Users\elf\Documents\Patika Projeler\sinif-kavrami\bin\Debug\net7.0\sinif-kavrami.dll
+C:\Users\elf\Documents\Patika Projeler\sinif-kavrami\bin\Debug\net7.0\sinif-kavrami.pdb
+C:\Users\elf\Documents\Patika Projeler\sinif-kavrami\obj\Debug\net7.0\sinif-kavrami.csproj.AssemblyReference.cache
+C:\Users\elf\Documents\Patika Projeler\sinif-kavrami\obj\Debug\net7.0\sinif-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Documents\Patika Projeler\sinif-kavrami\obj\Debug\net7.0\sinif-kavrami.AssemblyInfoInputs.cache
+C:\Users\elf\Documents\Patika Projeler\sinif-kavrami\obj\Debug\net7.0\sinif-kavrami.AssemblyInfo.cs
+C:\Users\elf\Documents\Patika Projeler\sinif-kavrami\obj\Debug\net7.0\sinif-kavrami.csproj.CoreCompileInputs.cache
+C:\Users\elf\Documents\Patika Projeler\sinif-kavrami\obj\Debug\net7.0\sinif-kavrami.dll
+C:\Users\elf\Documents\Patika Projeler\sinif-kavrami\obj\Debug\net7.0\refint\sinif-kavrami.dll
+C:\Users\elf\Documents\Patika Projeler\sinif-kavrami\obj\Debug\net7.0\sinif-kavrami.pdb
+C:\Users\elf\Documents\Patika Projeler\sinif-kavrami\obj\Debug\net7.0\sinif-kavrami.genruntimeconfig.cache
+C:\Users\elf\Documents\Patika Projeler\sinif-kavrami\obj\Debug\net7.0\ref\sinif-kavrami.dll
