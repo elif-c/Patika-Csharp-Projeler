@@ -1,0 +1,15 @@
+C:\Users\elf\Documents\Patika Projeler\static-sinif\bin\Debug\net7.0\static-sinif.exe
+C:\Users\elf\Documents\Patika Projeler\static-sinif\bin\Debug\net7.0\static-sinif.deps.json
+C:\Users\elf\Documents\Patika Projeler\static-sinif\bin\Debug\net7.0\static-sinif.runtimeconfig.json
+C:\Users\elf\Documents\Patika Projeler\static-sinif\bin\Debug\net7.0\static-sinif.dll
+C:\Users\elf\Documents\Patika Projeler\static-sinif\bin\Debug\net7.0\static-sinif.pdb
+C:\Users\elf\Documents\Patika Projeler\static-sinif\obj\Debug\net7.0\static-sinif.csproj.AssemblyReference.cache
+C:\Users\elf\Documents\Patika Projeler\static-sinif\obj\Debug\net7.0\static-sinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Documents\Patika Projeler\static-sinif\obj\Debug\net7.0\static-sinif.AssemblyInfoInputs.cache
+C:\Users\elf\Documents\Patika Projeler\static-sinif\obj\Debug\net7.0\static-sinif.AssemblyInfo.cs
+C:\Users\elf\Documents\Patika Projeler\static-sinif\obj\Debug\net7.0\static-sinif.csproj.CoreCompileInputs.cache
+C:\Users\elf\Documents\Patika Projeler\static-sinif\obj\Debug\net7.0\static-sinif.dll
+C:\Users\elf\Documents\Patika Projeler\static-sinif\obj\Debug\net7.0\refint\static-sinif.dll
+C:\Users\elf\Documents\Patika Projeler\static-sinif\obj\Debug\net7.0\static-sinif.pdb
+C:\Users\elf\Documents\Patika Projeler\static-sinif\obj\Debug\net7.0\static-sinif.genruntimeconfig.cache
+C:\Users\elf\Documents\Patika Projeler\static-sinif\obj\Debug\net7.0\ref\static-sinif.dll
