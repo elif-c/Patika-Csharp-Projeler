@@ -1,0 +1,15 @@
+C:\Users\elf\Documents\Patika Projeler\csharp-enum\bin\Debug\net7.0\csharp-enum.exe
+C:\Users\elf\Documents\Patika Projeler\csharp-enum\bin\Debug\net7.0\csharp-enum.deps.json
+C:\Users\elf\Documents\Patika Projeler\csharp-enum\bin\Debug\net7.0\csharp-enum.runtimeconfig.json
+C:\Users\elf\Documents\Patika Projeler\csharp-enum\bin\Debug\net7.0\csharp-enum.dll
+C:\Users\elf\Documents\Patika Projeler\csharp-enum\bin\Debug\net7.0\csharp-enum.pdb
+C:\Users\elf\Documents\Patika Projeler\csharp-enum\obj\Debug\net7.0\csharp-enum.csproj.AssemblyReference.cache
+C:\Users\elf\Documents\Patika Projeler\csharp-enum\obj\Debug\net7.0\csharp-enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Documents\Patika Projeler\csharp-enum\obj\Debug\net7.0\csharp-enum.AssemblyInfoInputs.cache
+C:\Users\elf\Documents\Patika Projeler\csharp-enum\obj\Debug\net7.0\csharp-enum.AssemblyInfo.cs
+C:\Users\elf\Documents\Patika Projeler\csharp-enum\obj\Debug\net7.0\csharp-enum.csproj.CoreCompileInputs.cache
+C:\Users\elf\Documents\Patika Projeler\csharp-enum\obj\Debug\net7.0\csharp-enum.dll
+C:\Users\elf\Documents\Patika Projeler\csharp-enum\obj\Debug\net7.0\refint\csharp-enum.dll
+C:\Users\elf\Documents\Patika Projeler\csharp-enum\obj\Debug\net7.0\csharp-enum.pdb
+C:\Users\elf\Documents\Patika Projeler\csharp-enum\obj\Debug\net7.0\csharp-enum.genruntimeconfig.cache
+C:\Users\elf\Documents\Patika Projeler\csharp-enum\obj\Debug\net7.0\ref\csharp-enum.dll

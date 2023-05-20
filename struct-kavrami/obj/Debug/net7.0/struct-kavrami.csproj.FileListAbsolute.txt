@@ -1,0 +1,15 @@
+C:\Users\elf\Documents\Patika Projeler\struct-kavrami\bin\Debug\net7.0\struct-kavrami.exe
+C:\Users\elf\Documents\Patika Projeler\struct-kavrami\bin\Debug\net7.0\struct-kavrami.deps.json
+C:\Users\elf\Documents\Patika Projeler\struct-kavrami\bin\Debug\net7.0\struct-kavrami.runtimeconfig.json
+C:\Users\elf\Documents\Patika Projeler\struct-kavrami\bin\Debug\net7.0\struct-kavrami.dll
+C:\Users\elf\Documents\Patika Projeler\struct-kavrami\bin\Debug\net7.0\struct-kavrami.pdb
+C:\Users\elf\Documents\Patika Projeler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.csproj.AssemblyReference.cache
+C:\Users\elf\Documents\Patika Projeler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Documents\Patika Projeler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.AssemblyInfoInputs.cache
+C:\Users\elf\Documents\Patika Projeler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.AssemblyInfo.cs
+C:\Users\elf\Documents\Patika Projeler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.csproj.CoreCompileInputs.cache
+C:\Users\elf\Documents\Patika Projeler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.dll
+C:\Users\elf\Documents\Patika Projeler\struct-kavrami\obj\Debug\net7.0\refint\struct-kavrami.dll
+C:\Users\elf\Documents\Patika Projeler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.pdb
+C:\Users\elf\Documents\Patika Projeler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.genruntimeconfig.cache
+C:\Users\elf\Documents\Patika Projeler\struct-kavrami\obj\Debug\net7.0\ref\struct-kavrami.dll
