@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\arrayList",
-    "\\Koleksiyonlar-odev2",
-    "\\Koleksiyonlar-odev2\\Koleksiyonlar-Soru-1"
+    "\\generic-collections",
+    "\\inheritance-example",
+    "\\struct-kavrami"
   ],
-  "SelectedNode": "\\Koleksiyonlar-odev2\\Koleksiyonlar-Soru-1\\Program.cs",
+  "SelectedNode": "\\inheritance-example\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

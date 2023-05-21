@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Hayvanlar",
+      "appliesTo": "inheritance-example/Hayvanlar.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Bitkiler",
+      "appliesTo": "inheritance-example/Bitkiler.cs",
+      "type": "launch"
+    }
+  ]
+}

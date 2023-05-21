@@ -1,0 +1,15 @@
+C:\Users\elf\Documents\Patika Projeler\inheritance-example\bin\Debug\net7.0\inheritance-example.exe
+C:\Users\elf\Documents\Patika Projeler\inheritance-example\bin\Debug\net7.0\inheritance-example.deps.json
+C:\Users\elf\Documents\Patika Projeler\inheritance-example\bin\Debug\net7.0\inheritance-example.runtimeconfig.json
+C:\Users\elf\Documents\Patika Projeler\inheritance-example\bin\Debug\net7.0\inheritance-example.dll
+C:\Users\elf\Documents\Patika Projeler\inheritance-example\bin\Debug\net7.0\inheritance-example.pdb
+C:\Users\elf\Documents\Patika Projeler\inheritance-example\obj\Debug\net7.0\inheritance-example.csproj.AssemblyReference.cache
+C:\Users\elf\Documents\Patika Projeler\inheritance-example\obj\Debug\net7.0\inheritance-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Documents\Patika Projeler\inheritance-example\obj\Debug\net7.0\inheritance-example.AssemblyInfoInputs.cache
+C:\Users\elf\Documents\Patika Projeler\inheritance-example\obj\Debug\net7.0\inheritance-example.AssemblyInfo.cs
+C:\Users\elf\Documents\Patika Projeler\inheritance-example\obj\Debug\net7.0\inheritance-example.csproj.CoreCompileInputs.cache
+C:\Users\elf\Documents\Patika Projeler\inheritance-example\obj\Debug\net7.0\inheritance-example.dll
+C:\Users\elf\Documents\Patika Projeler\inheritance-example\obj\Debug\net7.0\refint\inheritance-example.dll
+C:\Users\elf\Documents\Patika Projeler\inheritance-example\obj\Debug\net7.0\inheritance-example.pdb
+C:\Users\elf\Documents\Patika Projeler\inheritance-example\obj\Debug\net7.0\inheritance-example.genruntimeconfig.cache
+C:\Users\elf\Documents\Patika Projeler\inheritance-example\obj\Debug\net7.0\ref\inheritance-example.dll
