@@ -1,0 +1,15 @@
+C:\Users\elf\Documents\Patika Projeler\interfaces\bin\Debug\net7.0\interfaces.exe
+C:\Users\elf\Documents\Patika Projeler\interfaces\bin\Debug\net7.0\interfaces.deps.json
+C:\Users\elf\Documents\Patika Projeler\interfaces\bin\Debug\net7.0\interfaces.runtimeconfig.json
+C:\Users\elf\Documents\Patika Projeler\interfaces\bin\Debug\net7.0\interfaces.dll
+C:\Users\elf\Documents\Patika Projeler\interfaces\bin\Debug\net7.0\interfaces.pdb
+C:\Users\elf\Documents\Patika Projeler\interfaces\obj\Debug\net7.0\interfaces.csproj.AssemblyReference.cache
+C:\Users\elf\Documents\Patika Projeler\interfaces\obj\Debug\net7.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Documents\Patika Projeler\interfaces\obj\Debug\net7.0\interfaces.AssemblyInfoInputs.cache
+C:\Users\elf\Documents\Patika Projeler\interfaces\obj\Debug\net7.0\interfaces.AssemblyInfo.cs
+C:\Users\elf\Documents\Patika Projeler\interfaces\obj\Debug\net7.0\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\elf\Documents\Patika Projeler\interfaces\obj\Debug\net7.0\interfaces.dll
+C:\Users\elf\Documents\Patika Projeler\interfaces\obj\Debug\net7.0\refint\interfaces.dll
+C:\Users\elf\Documents\Patika Projeler\interfaces\obj\Debug\net7.0\interfaces.pdb
+C:\Users\elf\Documents\Patika Projeler\interfaces\obj\Debug\net7.0\interfaces.genruntimeconfig.cache
+C:\Users\elf\Documents\Patika Projeler\interfaces\obj\Debug\net7.0\ref\interfaces.dll
