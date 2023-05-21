@@ -15,5 +15,6 @@
         marti.Beslenme();
         marti.Solunum();
         marti.Ucmak();
+
     }
 }

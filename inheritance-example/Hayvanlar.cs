@@ -4,6 +4,12 @@ public class Hayvanlar : Canlilar
     {
         Console.WriteLine("Hayvanlar adaptasyon yapar.");
     }
+
+    public override void Tepki()
+    {
+        base.Tepki();
+        Console.WriteLine("hayvanlar override method");
+    }
 }
 
 public class Surungenler : Hayvanlar // left inherits from right

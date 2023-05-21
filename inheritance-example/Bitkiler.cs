@@ -6,6 +6,12 @@ public class Bitkiler : Canlilar
     {
         Console.WriteLine("Bitkiler fotosentez yapar.");
     }
+    public override void Tepki()
+    {
+        base.Tepki();
+        Console.WriteLine("bitki override");
+    }
+
 }
 
 public class TohumluBitkiler : Bitkiler

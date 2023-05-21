@@ -1,6 +1,6 @@
 using System;
 
-public class Canlilar
+public class Canlilar // if sealed, other classes cannot derive from it
 {
     public void Beslenme()
     {
@@ -14,4 +14,11 @@ public class Canlilar
     {   
         //System.Console.WriteLine("Canlilar bosaltim yapar.");
     }
+    public virtual void Tepki() 
+    {
+        Console.WriteLine("Canlilar tepki verir.");
+    }
 }
+
+
+
