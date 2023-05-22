@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\generic-collections",
-    "\\inheritance-example",
-    "\\struct-kavrami"
+    "\\interfaces-example"
   ],
-  "SelectedNode": "\\inheritance-example\\Program.cs",
+  "SelectedNode": "\\interfaces-example\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

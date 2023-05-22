@@ -1,0 +1,15 @@
+C:\Users\elf\Documents\Patika Projeler\Proje-1-contacts\bin\Debug\net7.0\Proje-1-contacts.exe
+C:\Users\elf\Documents\Patika Projeler\Proje-1-contacts\bin\Debug\net7.0\Proje-1-contacts.deps.json
+C:\Users\elf\Documents\Patika Projeler\Proje-1-contacts\bin\Debug\net7.0\Proje-1-contacts.runtimeconfig.json
+C:\Users\elf\Documents\Patika Projeler\Proje-1-contacts\bin\Debug\net7.0\Proje-1-contacts.dll
+C:\Users\elf\Documents\Patika Projeler\Proje-1-contacts\bin\Debug\net7.0\Proje-1-contacts.pdb
+C:\Users\elf\Documents\Patika Projeler\Proje-1-contacts\obj\Debug\net7.0\Proje-1-contacts.csproj.AssemblyReference.cache
+C:\Users\elf\Documents\Patika Projeler\Proje-1-contacts\obj\Debug\net7.0\Proje-1-contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Documents\Patika Projeler\Proje-1-contacts\obj\Debug\net7.0\Proje-1-contacts.AssemblyInfoInputs.cache
+C:\Users\elf\Documents\Patika Projeler\Proje-1-contacts\obj\Debug\net7.0\Proje-1-contacts.AssemblyInfo.cs
+C:\Users\elf\Documents\Patika Projeler\Proje-1-contacts\obj\Debug\net7.0\Proje-1-contacts.csproj.CoreCompileInputs.cache
+C:\Users\elf\Documents\Patika Projeler\Proje-1-contacts\obj\Debug\net7.0\Proje-1-contacts.dll
+C:\Users\elf\Documents\Patika Projeler\Proje-1-contacts\obj\Debug\net7.0\refint\Proje-1-contacts.dll
+C:\Users\elf\Documents\Patika Projeler\Proje-1-contacts\obj\Debug\net7.0\Proje-1-contacts.pdb
+C:\Users\elf\Documents\Patika Projeler\Proje-1-contacts\obj\Debug\net7.0\Proje-1-contacts.genruntimeconfig.cache
+C:\Users\elf\Documents\Patika Projeler\Proje-1-contacts\obj\Debug\net7.0\ref\Proje-1-contacts.dll
