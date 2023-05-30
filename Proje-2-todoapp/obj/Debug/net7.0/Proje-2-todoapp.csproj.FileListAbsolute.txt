@@ -1,0 +1,15 @@
+C:\Users\elf\Documents\Patika Projeler\Proje-2-todoapp\bin\Debug\net7.0\Proje-2-todoapp.exe
+C:\Users\elf\Documents\Patika Projeler\Proje-2-todoapp\bin\Debug\net7.0\Proje-2-todoapp.deps.json
+C:\Users\elf\Documents\Patika Projeler\Proje-2-todoapp\bin\Debug\net7.0\Proje-2-todoapp.runtimeconfig.json
+C:\Users\elf\Documents\Patika Projeler\Proje-2-todoapp\bin\Debug\net7.0\Proje-2-todoapp.dll
+C:\Users\elf\Documents\Patika Projeler\Proje-2-todoapp\bin\Debug\net7.0\Proje-2-todoapp.pdb
+C:\Users\elf\Documents\Patika Projeler\Proje-2-todoapp\obj\Debug\net7.0\Proje-2-todoapp.csproj.AssemblyReference.cache
+C:\Users\elf\Documents\Patika Projeler\Proje-2-todoapp\obj\Debug\net7.0\Proje-2-todoapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Documents\Patika Projeler\Proje-2-todoapp\obj\Debug\net7.0\Proje-2-todoapp.AssemblyInfoInputs.cache
+C:\Users\elf\Documents\Patika Projeler\Proje-2-todoapp\obj\Debug\net7.0\Proje-2-todoapp.AssemblyInfo.cs
+C:\Users\elf\Documents\Patika Projeler\Proje-2-todoapp\obj\Debug\net7.0\Proje-2-todoapp.csproj.CoreCompileInputs.cache
+C:\Users\elf\Documents\Patika Projeler\Proje-2-todoapp\obj\Debug\net7.0\Proje-2-todoapp.dll
+C:\Users\elf\Documents\Patika Projeler\Proje-2-todoapp\obj\Debug\net7.0\refint\Proje-2-todoapp.dll
+C:\Users\elf\Documents\Patika Projeler\Proje-2-todoapp\obj\Debug\net7.0\Proje-2-todoapp.pdb
+C:\Users\elf\Documents\Patika Projeler\Proje-2-todoapp\obj\Debug\net7.0\Proje-2-todoapp.genruntimeconfig.cache
+C:\Users\elf\Documents\Patika Projeler\Proje-2-todoapp\obj\Debug\net7.0\ref\Proje-2-todoapp.dll

@@ -10,6 +10,11 @@
       "taskLabel": "task-Bitkiler",
       "appliesTo": "inheritance-example/Bitkiler.cs",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-MainProgram",
+      "appliesTo": "Proje-2-todoapp/MainProgram.cs",
+      "type": "launch"
     }
   ]
 }
